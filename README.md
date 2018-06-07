@@ -1,0 +1,2 @@
+# Prosper_Loan_Data_Analysis
+Prosper or Prosper Marketplace, is a leader in the online peer-to-peer lending industry. The Prosper Loan dataset contains 113,937 loans with 81 variables on each loan, last updated on 03/11/2014. As an amateur, I find the idea of peer-to-peer lending quite interesting from a borrower and an investor standpoint. Through this analysis, I would like to determine which conditions(variables) might determine Loan Status.
