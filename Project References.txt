@@ -1,0 +1,9 @@
+1. https://www.prosper.com
+2. https://www.investopedia.com/terms/d/delinquent.asp
+3. https://en.wikipedia.org/wiki/Default_(finance)
+4. https://www.investopedia.com/terms/c/chargeoff.asp
+5. https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
+6. https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf
+7. https://rmarkdown.rstudio.com/html_document_format.html
+8. https://en.wikiversity.org/wiki/Correlation
+9. https://www.prosper.com/plp/general-prosper_score/
